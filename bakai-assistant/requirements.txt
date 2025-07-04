@@ -1,0 +1,42 @@
+# Голосовой помощник банка Бакай - Зависимости
+# Версия: 2.0
+
+# Основные библиотеки для работы с ИИ
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# LangChain и ChromaDB (точные версии для совместимости)
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-core==0.1.52
+chromadb==0.4.24
+
+# Векторные операции
+sentence-transformers>=2.2.0
+numpy>=1.24.0,<2.0.0
+pandas>=2.0.0
+
+# HTTP клиенты (фиксированные версии для ChromaDB)
+httpx>=0.24.0,<0.28.0
+requests>=2.28.0,<3.0.0
+urllib3>=1.26.0,<3.0.0
+
+# Для работы с аудио
+soundfile>=0.12.0
+librosa>=0.10.0
+
+# Утилиты
+python-dotenv>=1.0.0
+pyyaml>=6.0
+click>=8.0.0
+
+# Дополнительные зависимости для стабильности
+pydantic>=2.0.0,<3.0.0
+typing-extensions>=4.0.0
+sqlite3  # Встроенный в Python, но для явности
+
+# Для разработки (опционально)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=23.0.0
+# flake8>=6.0.0

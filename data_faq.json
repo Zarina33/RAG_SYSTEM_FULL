@@ -1,0 +1,682 @@
+[
+    {
+  "content": "FAQ: Что такое «Дружественная сеть»?\nОтвет: «Дружественная сеть» — это объединённая инфраструктура банкоматов и терминалов разных банков КР, которая позволяет удобно обслуживать карты.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "friendly_network",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Какие банки входят в дружественную сеть Бакай Банка?\nОтвет: В настоящее время дружественная сеть не используется. Однако: по картам Visa — снятие наличных в любых банкоматах по КР без комиссии. По картам Элкарт: стандартная карта — 0,6% комиссии; пенсионная и социальная карты — 0% комиссии.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "friendly_network",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Есть ли в Бакай Банке беспроцентный кредит?\nОтвет: Да, в рамках программ для бизнеса доступен кредит «Возвратная финансовая помощь». Подробности доступны по ссылке: https://bakai.kg/ru/business/loans/kredityi-dlya-biznesa/vozvratnaya-finansovaya-pomosch-195/",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "interest_free_loan",
+    "url": "https://bakai.kg/ru/business/loans/kredityi-dlya-biznesa/vozvratnaya-finansovaya-pomosch-195/"
+  }
+},
+{
+  "content": "FAQ: Что будет, если просрочить день оплаты по кредиту?\nОтвет: При просрочке оплаты начисляются штрафы согласно условиям кредитного договора. Также задержка платежа негативно влияет на Вашу кредитную историю.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "loan_delay",
+    "url": "https://bakai.kg/ru/business/loans/"
+  }
+},
+{
+  "content": "FAQ: Сколько рассматривается заявка, поданная в отделении?\nОтвет: Срок рассмотрения зависит от вида кредита и запрашиваемой суммы. Окончательное решение принимает кредитный комитет.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "loan_offline_review",
+    "url": "https://bakai.kg/ru/business/loans/"
+  }
+},
+{
+  "content": "FAQ: Сколько рассматривается заявка на кредит в приложении (онлайн)?\nОтвет: Заявка, поданная через мобильное приложение, рассматривается в течение 1 рабочего дня.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "loan_online_review",
+    "url": "https://bakai.kg/ru/business/loans/"
+  }
+},
+{
+  "content": "FAQ: Что такое кредитная карта?\nОтвет: Кредитная карта Бакай Банка — это карта, с помощью которой Вы можете совершать покупки и снимать наличные за счёт средств Банка. Максимальный лимит — до 5 заработных плат. При сумме свыше 500 000 сомов требуется залог. Оформление — один раз, пользование — до 2 лет. Удобное погашение через мобильное приложение. Проценты начисляются только на использованную сумму.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "credit_card",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Сколько длится льготный период по кредитной карте?\nОтвет: Льготный период составляет до 65 дней. В течение этого времени проценты по использованной сумме не начисляются, если Вы совершаете безналичные покупки и полностью погашаете задолженность до конца периода.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "credit_card_grace_period",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Чем отличается обычная карта Visa от карты Visa ИФЦ?\nОтвет: Visa ИФЦ — это социальная карта с ограниченным функционалом. На ней заблокированы операции в следующих категориях: алкогольные и табачные магазины; развлекательные заведения и букмекерские конторы; сайты с неприемлемым содержанием. Обычная карта Visa не имеет таких ограничений.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "visa_ifc",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Есть ли в Бакай банке Премиальные карты?\nОтвет: Да, в Бакай Банке доступны следующие премиальные карты: Visa Platinum, Visa Infinite, Visa Infinite Diamond. Каждая из них предлагает расширенные возможности и привилегии для наших клиентов.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "premium_cards",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Что такое карта Visa Platinum?\nОтвет: Visa Platinum — премиальная карта от Бакай Банка, предоставляющая расширенные возможности и удобство при повседневных покупках. Клиентам доступны: Круглосуточная поддержка Visa; программа страхования при путешествиях и покупках; услуга Fast Track в международных аэропортах (до 30.09.2025)*; услуги Dragon Pass (более 1200 лаунж-залов); специальные предложения от партнерских компаний, скидки в эксклюзивных магазинах и клубах. Доступность услуги Fast Track уточняется через чат-бот. Подробнее: https://bakai.kg/ru/individual/cards/s-6pdbu-visa-platinum/",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "visa_platinum",
+    "url": "https://bakai.kg/ru/individual/cards/s-6pdbu-visa-platinum/"
+  }
+},
+{
+  "content": "FAQ: Что такое карта Visa Infinite?\nОтвет: Visa Infinite от Бакай Банка — премиальная карта с набором эксклюзивных привилегий от Visa. Доступны: круглосуточная поддержка Visa; бесплатное открытие и ведение расчетных счетов; бесплатные банковские справки; доступ в VIP-зал аэропорта Манас; бесплатная упаковка багажа в аэропортах Бишкек, Алматы, Астана; привилегии в магазинах-партнёрах; Dragon Pass (1200+ лаунж-залов); программа LoungeKey; обслуживание в VIP-кабинете; 50% скидка на переводы по SWIFT; скидки на сейфовые ячейки. Подробнее: https://bakai.kg/ru/individual/cards/s-6qcduo-visa-infinite/",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "visa_infinite",
+    "url": "https://bakai.kg/ru/individual/cards/s-6qcduo-visa-infinite/"
+  }
+},
+{
+  "content": "FAQ: Что такое металлические карты?\nОтвет: Металлическая карта — карта национальной платёжной системы Элкарт, привязанная к счёту в драгоценных металлах (золото, серебро, платина). Позволяет хранить сбережения в металле, снимать наличные, оплачивать покупки безналично. Комиссии за пополнение и снятие средств не взимаются.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "metal_cards",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Можно ли открыть сейфовые ячейки в Бакай Банке?\nОтвет: Да, в Банке доступны сейфовые ячейки разных размеров. Это надёжный способ хранения ценностей: документов, ювелирных изделий, наличных. Оформление и доступ — только в отделении. Подробнее: https://bakai.kg/ru/individual/safe-boxes/",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "safe_boxes",
+    "url": "https://bakai.kg/ru/individual/safe-boxes/"
+  }
+},
+{
+  "content": "FAQ: Какие депозиты есть в Бакай Банке?\nОтвет: Доступны: Срочный вклад, Капитал, Онлайн-вклад, BakAi-копилка, Пенсионный вклад.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "deposits",
+    "url": "https://bakai.kg/ru/individual/deposits/"
+  }
+},
+{
+  "content": "FAQ: Взимается ли комиссия за обналичивание безналичных средств?\nОтвет: Да, комиссия зависит от валюты: Сомы — 0,5%; Доллары/евро — 0,7%; Рубли/тенге — 0,5% (мин. 150 сом); Дирхамы — 2% (мин. 150 сом); Юани — 3% (мин. 150 сом).",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "cash_withdrawal",
+    "url": "https://bakai.kg/ru/individual/accounts/"
+  }
+},
+{
+  "content": "FAQ: Можно ли открыть счет удаленно (нерезиденту)?\nОтвет: Первичное открытие счёта или карты нерезидентом возможно только при личном посещении отделения. Если вы уже клиент, можно открыть счет через приложение и заказать карту онлайн.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "remote_account",
+    "url": "https://bakai.kg/ru/individual/accounts/"
+  }
+},
+{
+  "content": "FAQ: Может ли третье лицо забрать карту по доверенности?\nОтвет: Да, если заявка оформлена в отделении, карту может получить третье лицо по нотариально заверенной доверенности, оформленной в КР.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "card_pickup",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Может ли нерезидент получить кредит?\nОтвет: Да. Нужно иметь вид на жительство в КР и официальное трудоустройство с отчислениями в Социальный фонд за последние 6 месяцев.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "credit_for_nonresidents",
+    "url": "https://bakai.kg/ru/business/loans/"
+  }
+},
+{
+  "content": "FAQ: Куда отправить предложение о сотрудничестве?\nОтвет: На email: marketing@bakai.kg и bank@bakai.kg.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "cooperation",
+    "url": "https://bakai.kg/ru/about/"
+  }
+},
+{
+  "content": "FAQ: Где узнать актуальные вакансии?\nОтвет: На сайте www.bakai.kg в разделе «Вакансии» или отправить резюме на hr@bakai.kg.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "vacancies",
+    "url": "https://bakai.kg/ru/about/vacancies/"
+  }
+},
+{
+  "content": "FAQ: Лимиты на конвертацию валют в МБ «Bakai»?\nОтвет: До 850 000 сом в сутки, до 8 500 000 сом в месяц. Для увеличения лимита нужно обратиться в офис банка.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "currency_limits",
+    "url": "https://bakai.kg/ru/individual/accounts/"
+  }
+},
+{
+  "content": "FAQ: Как перевести по SWIFT на карту?\nОтвет: SWIFT перевод возможен только между расчетными счетами, на карту перевести нельзя.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "swift_transfer",
+    "url": "https://bakai.kg/ru/individual/requisites/"
+  }
+},
+{
+  "content": "FAQ: На какие карты можно перевести с карты Visa Бакай Банка?\nОтвет: Через Visa Direct — на карту Visa по номеру карты или по телефону (Visa+). Доступно более чем в 170 странах.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "visa_direct",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Как оплатить кредит через приложение и терминалы?\nОтвет: Через приложение Bakai: выбрать раздел «Кредиты» → «Погасить» → указать сумму и подтвердить. Через терминал: выбрать «Финансовые услуги» → «Погашение кредита» → ввести номер счета и сумму → внести деньги и сохранить чек.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "credit_payment",
+    "url": "https://bakai.kg/ru/individual/credits/"
+  }
+},
+{
+  "content": "FAQ: Как получить рассрочку?\nОтвет: Через офис (товарный чек, паспорт, оценка банка) или с помощью карты Tumар (рассрочка у партнеров, карта оформляется в банке).",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "installment",
+    "url": "https://bakai.kg/ru/individual/tumar/"
+  }
+},
+{
+  "content": "FAQ: Список партнёров по рассрочке?\nОтвет: Доступен по ссылке: https://bakai.kg/ru/individual/tumar/",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "installment_partners",
+    "url": "https://bakai.kg/ru/individual/tumar/"
+  }
+},
+{
+  "content": "FAQ: Размеры и условия по сейфовым ячейкам?\nОтвет: Ячейки разных размеров (мал., сред., больш.), аренда от 1 месяца. Два ключа: у клиента и у банка. Запрещено хранить опасные предметы. Подробнее: https://bakai.kg/ru/individual/safe-boxes/",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "safe_boxes",
+    "url": "https://bakai.kg/ru/individual/safe-boxes/"
+  }
+},
+{
+  "content": "FAQ: Комиссии при Клиринг/Гросс переводах?\nОтвет: Клиринг: от 5 до 60 сом, макс. 1 млн сом. Гросс: 90 сом, без ограничения по сумме.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "clearing_gross",
+    "url": "https://bakai.kg/ru/individual/payments/"
+  }
+},
+{
+  "content": "FAQ: Комиссия при SWIFT переводе?\nОтвет: OUR: комиссия за счет отправителя (USD/EUR 0,2%, мин. 30, макс. 300 и др.). BEN: комиссия удерживается из суммы (USD/EUR фикс. 20).",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "swift_fees",
+    "url": "https://bakai.kg/ru/individual/requisites/"
+  }
+},
+{
+  "content": "FAQ: Реквизиты для получения SWIFT перевода?\nОтвет: Доступны по ссылке: https://bakai.kg/ru/individual/requisites/",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "swift_details",
+    "url": "https://bakai.kg/ru/individual/requisites/"
+  }
+},
+{
+  "content": "FAQ: Условия открытия расчетного счета для юрлиц?\nОтвет: Все тарифы и список документов доступны на странице: https://bakai.kg/ru/business/accounts/",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "business_accounts",
+    "url": "https://bakai.kg/ru/business/accounts/"
+  }
+},
+{
+  "content": "FAQ: Покупка и продажа мерных слитков?\nОтвет: Для покупки и продажи мерных слитков необходимо обратиться в офис Банка с паспортом.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "bullion",
+    "url": "https://bakai.kg/ru/individual/"
+  }
+},
+{
+  "content": "FAQ: Продажа коллекционных монет НБКР?\nОтвет: Бакай Банк реализует коллекционные монеты Национального Банка КР. Они ценятся как инвестиционные и нумизматические объекты. Подробнее: https://archive.bakai.kg/kg/page/kollektsionnyie-monetyi-33/",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "coins",
+    "url": "https://archive.bakai.kg/kg/page/kollektsionnyie-monetyi-33/"
+  }
+},
+{
+  "content": "FAQ: Актуальные курсы валют наличные/безналичные?\nОтвет: Актуальные курсы валют можно посмотреть на официальном сайте Бакай Банка: https://bakai.kg/ru/office/",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "exchange_rates",
+    "url": "https://bakai.kg/ru/office/"
+  }
+},
+{
+  "content": "FAQ: Актуальные вакансии Банка?\nОтвет: Ознакомиться с вакансиями можно на странице: https://bakai.kg/ru/individual/about/careers/",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "vacancies",
+    "url": "https://bakai.kg/ru/individual/about/careers/"
+  }
+},
+{
+  "content": "FAQ: Адреса филиалов, время работы отделений Банка?\nОтвет: Актуальные адреса и график работы отделений: https://bakai.kg/ru/individual/",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "branches",
+    "url": "https://bakai.kg/ru/individual/"
+  }
+},
+{
+  "content": "FAQ: Можно ли открыть расчетный счет онлайн?\nОтвет: Расчетный счет открывается в МБ Bakai. Раздел «Мои финансы» → «Открыть счет».",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "accounts",
+    "url": "https://bakai.kg/ru/business/accounts/"
+  }
+},
+{
+  "content": "FAQ: В каких валютах можно открыть расчетный счет?\nОтвет: Счет можно открыть в: сом, доллар США, евро, рубль, тенге, лира, юань, дирхам ОАЭ.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "accounts",
+    "url": "https://bakai.kg/ru/business/accounts/"
+  }
+},
+{
+  "content": "FAQ: Будет ли отображаться расчетный счет в приложении? Можно ли им управлять?\nОтвет: Счет отображается в приложении Бакай, можно управлять онлайн: переводить, получать, формировать выписки.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "accounts",
+    "url": "https://bakai.kg/ru/business/accounts/"
+  }
+},
+{
+  "content": "FAQ: На какой срок открывается расчетный счет?\nОтвет: Счет открывается на неопределенный срок. При отсутствии операций в течение 1 года счет закрывается.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "accounts",
+    "url": "https://bakai.kg/ru/business/accounts/"
+  }
+},
+{
+  "content": "FAQ: Какую сумму можно вложить на счет в Банке?\nОтвет: На пополнение счета ограничений нет.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "accounts",
+    "url": "https://bakai.kg/ru/business/accounts/"
+  }
+},
+{
+  "content": "FAQ: Сроки открытия счета для физических лиц?\nОтвет: В офисе — 15 минут, в МБ Bakai — моментально.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "accounts",
+    "url": "https://bakai.kg/ru/business/accounts/"
+  }
+},
+{
+  "content": "FAQ: Что такое справка о наличии счета?\nОтвет: Документ, подтверждающий наличие счета и средств на нем.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "account_certificates",
+    "url": "https://bakai.kg/ru/individual/accounts/"
+  }
+},
+{
+  "content": "FAQ: Как получить справку о наличии счета?\nОтвет: Можно написать заявление в отделении или получить через МБ Bakai. На русском языке бесплатно, на английском — по заявлению (1000 сом).",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "account_certificates",
+    "url": "https://bakai.kg/ru/individual/accounts/"
+  }
+},
+{
+  "content": "FAQ: На каких языках выдается справка о наличии счета?\nОтвет: На русском и английском языках.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "account_certificates",
+    "url": "https://bakai.kg/ru/individual/accounts/"
+  }
+},
+{
+  "content": "FAQ: Что такое видео и фото идентификация?\nОтвет: Статус фото/видео идентификации устанавливается при самостоятельной идентификации в МБ Бакай. При этом лимиты на переводы и платежи снижены.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "identification",
+    "url": "https://bakai.kg/ru/individual/security/"
+  }
+},
+{
+  "content": "FAQ: Как пройти полную идентификацию?\nОтвет: Нужно обратиться в отделение Банка с паспортом.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "identification",
+    "url": "https://bakai.kg/ru/individual/security/"
+  }
+},
+{
+  "content": "FAQ: Что такое кешбэк?\nОтвет: Программа возврата части средств при оплате картой, если не начисляются проценты на остаток.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "cashback",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Как получить кешбэк?\nОтвет: Оплачивать картой Visa (сом) через POS-терминалы в КР или при онлайн-покупках на локальных сайтах.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "cashback",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Что такое виртуальная карта?\nОтвет: Платежная карта без физического носителя, реквизиты доступны в приложении, CVV и номер карты приходят по SMS.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "virtual_cards",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Что делать, если банкомат проглотил карту?\nОтвет: Дождаться инкассации (до 2 недель). Срочная инкассация — в течение суток (600 сом/7$).",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "atm",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Что делать, если карту другого банка проглотил банкомат Бакай Банка?\nОтвет: Элкарт — передается в банк эмитент через МПЦ. Visa — передается в главный офис Бакай Банка.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "atm",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Что такое двухэтапная аутентификация?\nОтвет: Дополнительная защита при входе с нового устройства.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "security",
+    "url": "https://bakai.kg/ru/individual/security/"
+  }
+},
+{
+  "content": "FAQ: Как пройти двухэтапную аутентификацию?\nОтвет: Обратиться в отделение, позвонить в контакт-центр или подтвердить через старое устройство в разделе «Безопасность».",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "security",
+    "url": "https://bakai.kg/ru/individual/security/"
+  }
+},
+{
+  "content": "FAQ: Что делать, если при сбросе пароля появляется «Доступ заблокирован»?\nОтвет: Восстановить доступ можно в отделении или через контакт-центр после идентификации.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "security",
+    "url": "https://bakai.kg/ru/individual/security/"
+  }
+},
+{
+  "content": "FAQ: Что делать, если при входе появляется «Учётная запись заблокирована»?\nОтвет: Нужно обратиться в офис с документом для разблокировки.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "security",
+    "url": "https://bakai.kg/ru/individual/security/"
+  }
+},
+{
+  "content": "FAQ: Можно ли отменить платеж за сотовую связь?\nОтвет: Возможно, если сумма на ошибочном номере сохранена. QR-платежи отмене не подлежат.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "payments",
+    "url": "https://bakai.kg/ru/individual/payments/"
+  }
+},
+{
+  "content": "FAQ: Можно ли отменить перевод на карту, если он уже исполнен?\nОтвет: Отменить нельзя. Можно написать заявление в отделении при согласии получателя.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "payments",
+    "url": "https://bakai.kg/ru/individual/payments/"
+  }
+},
+{
+  "content": "FAQ: Как восстановить доступ в приложение Bakai, если забыт пароль?\nОтвет: Нажмите «Забыли пароль?» → введите телефон → подтвердите код → пройдите биометрию → задайте новый пароль и PIN.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "security",
+    "url": "https://bakai.kg/ru/individual/security/"
+  }
+},
+{
+  "content": "FAQ: Что такое OTP коды и как их получить?\nОтвет: OTP (One Time Password) — одноразовый пароль, отправляемый по SMS или email для подтверждения операций.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "security",
+    "url": "https://bakai.kg/ru/individual/security/"
+  }
+},
+{
+  "content": "FAQ: Можно ли изменить номер телефона или email в приложении Bakai?\nОтвет: Номер телефона изменить удалённо нельзя — нужно обратиться в офис с заявлением. Email можно изменить в настройках приложения.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "app_settings",
+    "url": "https://bakai.kg/ru/individual/security/"
+  }
+},
+{
+  "content": "FAQ: Что такое 3D Secure код? Куда он поступает?\nОтвет: 3D Secure — дополнительная идентификация для онлайн-покупок. Код поступает по SMS на мобильный номер или на email.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "security",
+    "url": "https://bakai.kg/ru/individual/security/"
+  }
+},
+{
+  "content": "FAQ: Что такое пуш-уведомления?\nОтвет: Короткие сообщения от приложения на смартфон, информирующие о событиях и операциях, даже когда приложение закрыто.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "notifications",
+    "url": "https://bakai.kg/ru/individual/security/"
+  }
+},
+{
+  "content": "FAQ: Что такое SMS-оповещения и сколько они стоят?\nОтвет: Сообщения о движении средств. Стоимость зависит от карты: Visa — от 70 сом в месяц, Элкарт — от 40 сом в месяц.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "notifications",
+    "url": "https://bakai.kg/ru/individual/security/"
+  }
+},
+{
+  "content": "FAQ: Что делать, если ожидаемый перевод не поступил?\nОтвет: Проверить у отправителя реквизиты и чек. При наличии чека обратиться в контакт-центр: 6111 или +996 (312) 61 00 61.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "payments",
+    "url": "https://bakai.kg/ru/individual/payments/"
+  }
+},
+{
+  "content": "FAQ: Что делать, если перевод не дошёл до получателя?\nОтвет: Проверить списание, сохранить чек, связаться с контакт-центром для проверки: 6111 или +996 (312) 61 00 61.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "payments",
+    "url": "https://bakai.kg/ru/individual/payments/"
+  }
+},
+{
+  "content": "FAQ: Не удается совершить интернет-платеж картой?\nОтвет: Проверить настройки карты и лимиты. Если проблема сохраняется — обратиться в контакт-центр: 6111 или +996 (312) 61 00 61.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "payments",
+    "url": "https://bakai.kg/ru/individual/payments/"
+  }
+},
+{
+  "content": "FAQ: Не приходят 3DS/OTP коды?\nОтвет: Проверить данные, сеть и память. Если проблема сохраняется — связаться с контакт-центром: 6111 или +996 (312) 61 00 61.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "security",
+    "url": "https://bakai.kg/ru/individual/security/"
+  }
+},
+{
+  "content": "FAQ: Куда списались средства с карты?\nОтвет: Проверить историю в приложении. Если операция неизвестна — связаться с контакт-центром и временно заблокировать карту.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "payments",
+    "url": "https://bakai.kg/ru/individual/payments/"
+  }
+},
+{
+  "content": "FAQ: Банкомат не выдал деньги?\nОтвет: Обратиться в офис или контакт-центр. В зависимости от ситуации, рассмотрение занимает до 30 дней.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "atm",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Что будет, если просрочить оплату по кредиту?\nОтвет: Начисляются штрафы и портится кредитная история.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "loans",
+    "url": "https://bakai.kg/ru/business/loans/"
+  }
+},
+{
+  "content": "FAQ: Что такое период охлаждения?\nОтвет: Время ожидания после подписания кредитного договора, когда можно отказаться без последствий.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "loans",
+    "url": "https://bakai.kg/ru/business/loans/"
+  }
+},
+{
+  "content": "FAQ: Срок рассмотрения онлайн-кредита?\nОтвет: Зависит от суммы и периода охлаждения. До 14 999 сом — 1 день, от 15 000 — от 3 до 6 часов.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "loans",
+    "url": "https://bakai.kg/ru/business/loans/"
+  }
+},
+{
+  "content": "FAQ: Что такое кредитная карта?\nОтвет: Карта с лимитом, позволяющая использовать заёмные средства с последующим погашением.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "credit_cards",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Сколько длится льготный период?\nОтвет: До 65 дней. Если погасить всю сумму вовремя — проценты не начисляются.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "credit_cards",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Что такое льготный период?\nОтвет: Время, когда можно пользоваться кредитом без процентов, если погасить всю сумму до окончания срока.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "credit_cards",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Есть ли премиальные карты?\nОтвет: Да, Visa Platinum и Visa Infinite с расширенными привилегиями.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "premium_cards",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Какие карты выпускает Бакай Банк?\nОтвет: Visa (международная) и Элкарт (национальная).",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "cards",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Срок выпуска карт Visa и Элкарт?\nОтвет: Visa — 5 лет, Элкарт — 3 года.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "cards",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Что будет, если не забрать карту?\nОтвет: Если карта не активна, она закрывается через 1 год.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "cards",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Обслуживается ли карта Visa в России?\nОтвет: Нет, карты Visa не обслуживаются в РФ.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "cards",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Можно ли разблокировать карту удалённо?\nОтвет: Да, в некоторых случаях через приложение или контакт-центр. Иначе — в отделении.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "cards",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Как заблокировать карту?\nОтвет: Через контакт-центр, приложение или отделение.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "cards",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+},
+{
+  "content": "FAQ: Где пополнить карту без комиссии?\nОтвет: Через терминалы Бакай Банка, Quickpay, PAY 24, О!, Оңой, электронные кошельки и партнеров.",
+  "metadata": {
+    "type": "faq",
+    "parent_id": "cards",
+    "url": "https://bakai.kg/ru/individual/cards/"
+  }
+}
+]
